@@ -1,0 +1,2 @@
+previous files used to practice simulating techniques before switching to python + simpy
+practiced with trains coming into out of a station, competing for stations and time, instead of ALOHA packet collisions
